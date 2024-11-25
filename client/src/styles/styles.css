@@ -1,0 +1,31 @@
+body {
+    background: linear-gradient(110deg, #000000 60%, #270a38 60%);    color: #ffffff;
+  }
+  
+  .container-fluid {
+    background-color: #1e1e1e;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  button {
+    background-color: #333333 !important;
+    color: #ffffff !important;
+    border: none !important;
+  }
+  
+  button:hover {
+    background-color: #444444 !important;
+    color: #ffffff !important;
+  }
+  
+  .card {
+    background-color: #2b2b2b;
+    color: #ffffff;
+    border: none;
+  }
+  
+  .card .card-title {
+    color: #ffffff;
+  }
+  
